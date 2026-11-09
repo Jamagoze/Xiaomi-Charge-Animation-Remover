@@ -25,7 +25,7 @@ Why use it:
 
 Requirements:
 
-- Root access (Magisk, KernelSU, or APatch)
+- Root access (Magisk)
 
 - Xiaomi, Redmi, or POCO device on MIUI 13, MIUI 14, or HyperOS
 
