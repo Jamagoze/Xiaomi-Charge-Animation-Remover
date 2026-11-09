@@ -1,4 +1,5 @@
-![Uploading 1000904475.jpg…]()
+<img width="1920" height="1920" alt="1000904475" src="https://github.com/user-attachments/assets/ad0ae30f-0eec-4045-b2b6-34d941a00874" />
+
 
 Xiaomi Charge Animation Remover
 
