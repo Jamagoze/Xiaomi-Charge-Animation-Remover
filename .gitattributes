@@ -1,0 +1,7 @@
+# Hide a folder/file type from stats
+vendor/* linguist-vendored
+docs/* linguist-documentation
+*.generated.js linguist-generated
+
+# Force a file type to count as a language
+*.h linguist-language=C
