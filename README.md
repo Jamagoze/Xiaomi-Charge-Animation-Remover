@@ -31,7 +31,3 @@ Requirements:
 
 
 
-
-Disclaimer:
-
-Use at your own risk. Always keep a backup before flashing root modules.
