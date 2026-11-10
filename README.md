@@ -25,33 +25,10 @@ Why use it:
 
 Requirements:
 
-- Root access (Magisk)
+- Root access
 
 - Xiaomi, Redmi, or POCO device on MIUI 13, MIUI 14, or HyperOS
 
-
-
-Installation:
-
-1. Download the latest release ZIP file.
-
-2. Open your root app (Magisk).
-
-3. Go to the Modules tab and select "Install from storage".
-
-4. Pick the downloaded ZIP file.
-
-5. Flash it and reboot your phone.
-
-
-
-Uninstallation:
-
-1. Open your root app.
-
-2. Go to Modules, find this module, and tap Remove or Disable.
-
-3. Reboot your device.
 
 
 
